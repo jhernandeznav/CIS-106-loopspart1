@@ -1,0 +1,33 @@
+﻿activity2
+get_vaule;(name)
+Enter starting value, value
+Enter ending value 
+while_loop(start, stop, increment)
+Count = start
+While count <= stop:
+print(count)
+Count = count + increment
+Output
+Start = get_value,”starting”
+Stop = get_value,”ending”
+Increment = get_value,”increment”
+while_loop(start, stop, increment)
+
+
+Activity3
+Declare yes_or_no
+Answer_ = False
+If input(“Do you want to continue this program? (y/n)”).lower() ==’y’:
+Answer_ true
+While answe_
+Get last name, last_name
+Get first score, anynumber
+Get second score, anynum
+Get average = anynumber + anynum / 200 x100
+Out put 
+last_name
+Answer, percent
+If input(“Do you want to reun the program again? (y/n)”).lower() == ‘n’:
+Answer_ = False
+Out put 
+goodbye
